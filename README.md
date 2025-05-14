@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is developed as part of **CS699** course and focuses on **predictive modeling using BRFSS survey data**. The goal is to preprocess complex health survey data, balance the dataset, select optimal features, and apply a suite of machine learning classification models. Models are evaluated and compared using various performance metrics.
+This project focuses on **predictive modeling using a 2019 Behavioral Risk Factor Surveillance System (BRFSS) Survey Data**. The goal is to preprocess complex health survey data, balance the dataset, select optimal features, and apply a suite of machine learning classification models. Models are evaluated and compared using various performance metrics.
 
 ## Workflow Summary
 
