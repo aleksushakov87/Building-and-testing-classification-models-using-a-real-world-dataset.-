@@ -50,7 +50,6 @@ Trained the following classifiers on each balanced dataset:
 * K-Nearest Neighbors (KNN)
 * Naive Bayes
 * XGBoost
-* Multilayer Perceptron (MLP)
 
 ### 6. Model Evaluation
 
@@ -68,7 +67,7 @@ Trained the following classifiers on each balanced dataset:
 ## Project Structure
 
 ```
-├── CS699 - Project Code Final+.R   # Main R project code
+├── Project Code.R                  # Main R project code
 ├── project_data.csv                # Raw dataset (expected)
 ├── preprocessed_data.csv           # Preprocessed dataset
 ├── training_data.csv               # Training data
