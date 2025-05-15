@@ -104,7 +104,7 @@ Trained the following classifiers on each balanced dataset:
 ## Usage
 
 1. Place the raw dataset `project_data.csv` in the working directory.
-2. Run the script `CS699 - Project Code Final+.R`.
+2. Run the script `Project Code.R`.
 3. Outputs will be saved in the specified files and folders.
 4. Review model evaluation metrics in the `Models/` directory.
 
@@ -117,6 +117,3 @@ Trained the following classifiers on each balanced dataset:
 * **All metrics and results are reproducible** by rerunning the script.
 
 ---
-
-Would you also like me to prepare a **requirements file (`requirements.R`) for the necessary packages** to automate installation?
-If yes, just say "**Yes, requirements.**".
