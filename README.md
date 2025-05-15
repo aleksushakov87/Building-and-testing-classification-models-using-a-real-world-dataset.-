@@ -3,14 +3,9 @@
 This project focuses on **predictive modeling using a 2019 Behavioral Risk Factor Surveillance System (BRFSS) Survey Data**. The goal is to preprocess complex health survey data, balance the dataset, select optimal features, and apply a suite of machine learning classification models. Models are evaluated and compared using various performance metrics.
 Performance criteria
 * Minimum requirement
- class Y TPR >= 70% AND class N TPR >= 65%
-o If the minimum requirement is not met, 10% will be deducted.
-o If performance satisfies the following criterion, extra credit of 20% will be given.
- class Y TPR >= 75% AND class N TPR >= 70%
-o If the performance of the model of a team cannot be replicated:
- 20% will be deducted.
- If the team received any extra credit, the extra credit is revoked (in addition
-to 20% deduction) 
+  * class Y TPR >= 70% AND class N TPR >= 65%
+* Extra credit requirement
+  * class Y TPR >= 75% AND class N TPR >= 70%
 
 ## Workflow Summary
 
