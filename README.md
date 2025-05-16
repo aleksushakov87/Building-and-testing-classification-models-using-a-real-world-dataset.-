@@ -72,7 +72,8 @@ Trained the following classifiers on each balanced dataset:
 ├── preprocessed_data.csv           # Preprocessed dataset
 ├── training_data.csv               # Training data
 ├── testing_data.csv                # Testing data
-└── Models/                         # Folder containing model metrics Excel files
+├── Models_performance              # Folder containing model metrics Excel files
+└── Project_Variable_Summary        # LLCP 2019_ Codebook Report
 ```
 
 ---
